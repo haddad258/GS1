@@ -28,7 +28,7 @@ import NavItem from './NavItem';
 const user = {
  avatar: '/static/images/avatars/avatar0.jpg',
   jobTitle: 'GS1 tools',
-  name: 'serviceTag'
+  name: 'gs1tools'
 };
 
 const items = [

@@ -83,7 +83,7 @@ const LoginView = () => {
                 }
               })
 
-             /*  if(values.email =="goldshard@goldshard.fr" && values.password =="goldshard1"){
+             /*  if(values.email =="gs1tools@gs1tools.fr" && values.password =="gs1tools1"){
                 navigate('/app/dashboard', { replace: true });
 
               }else {

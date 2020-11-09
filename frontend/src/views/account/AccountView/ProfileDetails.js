@@ -37,7 +37,7 @@ const useStyles = makeStyles(() => ({
 const ProfileDetails = ({ className, ...rest }) => {
   const classes = useStyles();
   const [values, setValues] = useState({
-    firstName: 'serviceTag ',
+    firstName: 'gs1tools ',
     lastName: 'gs1 tools',
     email: 'GS1resolver@fy1.fr',
     phone: '+33XXXXXXXXXXX',

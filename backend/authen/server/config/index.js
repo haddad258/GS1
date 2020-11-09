@@ -6,7 +6,7 @@ const config = {
     port: process.env.SERVER_PORT,
   },
   jwt: {
-    secret: "goldshard",
+    secret: "gs1tools",
   },
   database: {
     url: "mongodb://127.0.0.1/mydb",

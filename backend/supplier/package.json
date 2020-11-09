@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://rafik258@bitbucket.org/GoldShard/backend_commun_resolver.git"
+    "url": "git+https://rafik258@bitbucket.org/gs1tools/backend_commun_resolver.git"
   },
   "author": "haddadrafik258@gmail.com",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/GoldShard/backend_commun_resolver#readme",
+  "homepage": "https://bitbucket.org/gs1tools/backend_commun_resolver#readme",
   "dependencies": {
     "digital-link.js": "^1.1.0",
     "ejs": "^3.1.3",

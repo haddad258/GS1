@@ -30,9 +30,9 @@ POST
 body:
 ```
 {
-  "firstname": "goldshard",
-  "lastname": "goldshard",
-  "email": "goldshard.goldshard@gmail.com",
+  "firstname": "gs1tools",
+  "lastname": "gs1tools",
+  "email": "gs1tools.gs1tools@gmail.com",
   "password": "PASSWORD"
 }
 ```
@@ -41,9 +41,9 @@ response:
 {
   "success": true,
   "item": {
-    "name": "goldshard",
-    "lastname": "goldshard",
-    "email": "goldshard.goldshard@gmail.com",
+    "name": "gs1tools",
+    "lastname": "gs1tools",
+    "email": "gs1tools.gs1tools@gmail.com",
   },
   "meta": {
     "token": "JWT-TOKEN"
@@ -63,7 +63,7 @@ POST
 body:
 ```
 {
-  "email": "goldshard.goldshard@gmail.com",
+  "email": "gs1tools.gs1tools@gmail.com",
   "password": "PASSWORD"
 }
 ```
@@ -72,9 +72,9 @@ response:
 {
   "success": true,
   "item": {
-    "name": "goldshard",
-    "lastname": "goldshard",
-    "email": "goldshard.goldshard@gmail.com",
+    "name": "gs1tools",
+    "lastname": "gs1tools",
+    "email": "gs1tools.gs1tools@gmail.com",
   },
   "meta": {
     "token": "JWT-TOKEN"
@@ -115,9 +115,9 @@ response:
 {
   "success": true,
   "item": {
-    "firstname": "goldshard",
-    "lastname": "goldshard",
-    "email": "goldshard.goldshard@gmail.com",
+    "firstname": "gs1tools",
+    "lastname": "gs1tools",
+    "email": "gs1tools.gs1tools@gmail.com",
   }
 }
 ```

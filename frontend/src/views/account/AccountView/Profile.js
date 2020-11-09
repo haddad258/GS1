@@ -19,7 +19,7 @@ const user = {
   city: 'Paris ',
   country: 'France',
   jobTitle: 'GS1 tools',
-  name: 'serviceTag',
+  name: 'gs1tools',
   timezone: 'GTM-7'
 };
 
